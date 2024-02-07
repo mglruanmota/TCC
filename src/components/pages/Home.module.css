@@ -1,0 +1,35 @@
+.home_container {
+    width: 100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 4em;
+}
+
+.home_container h1{
+   font-size: 40px;
+   color: white;
+   margin-bottom: cm;
+   
+}
+
+.home_container h2{
+    font-size: 80px;
+    color: white;
+    margin-bottom:cm;
+ }
+
+ .home_container a{
+    
+    color: white;
+ }
+
+ .home_container img{
+    width: 80%;
+    margin-right: -66px;
+    margin-top: 224px;
+    
+
+    
+    
+ }
